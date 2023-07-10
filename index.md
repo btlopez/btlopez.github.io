@@ -9,10 +9,6 @@ I was a Postdoctoral Fellow at NASA-JPL (2019-2021) where I worked on the [DARPA
 
 I can be reached at btlopez at ucla dot edu.
 
-<!-- <p align='center'>
-    <img src="./images/flying.png" alt="drawing" width="720"/>
-</p> -->
-
 ![aquila](./images/flying.png)
 *Left: VECTR Lab's drone flying autonomously in an underground Limestone mine* \
 *Right: Metric map of another Limestone mine generated using VECTR Lab's custom LiDAR-inertial odometry and mapping algorithm ([github link](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)).*
