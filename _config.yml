@@ -31,8 +31,9 @@ footer-links:
   rss: 
   twitter: 
   stackoverflow: 
-  youtube: #user/@vectr-ucla
+  youtube: vectr-ucla
   googleplus: # anything in your profile username that comes after plus.google.com/
+  googlescholar: citations?user=9cz0xFMAAAAJ&hl=en
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
