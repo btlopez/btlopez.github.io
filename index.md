@@ -16,6 +16,7 @@ I can be reached at btlopez at ucla dot edu.
 
 ---
 ## Selected Awards
+UCLA Faculty Career Development Award (2023) \
 Nominated for IEEE Control Systems Letters Outstanding Paper Award (2023) \
 UCLA MAE Outstanding Teaching Award (2023) \
 First place in the IEEE Control Systems Society Video Clip Contest ([2015](https://www.youtube.com/watch?v=4Y7zG48uHRo)) \
