@@ -25,10 +25,14 @@ UCLA Aerospace Engineering Outstanding Bachelor of Science (2014)
 
 ---
 ## Teaching
-Optimal Control (Fall 2024) \
-Aerospace Design Laboratory (Spring 2022, 2023) \
+Introduction to Autonomous Aerospace Systems (Fall 2022, Fall 2024) \
+Optimal Control (Fall 2023, Spring 2024) \
+Aerospace Design Laboratory (Spring 2022, 2023, 2024) \
 Introduction to Feedback and Control Systems (Winter 2022, 2023)
 
 ---
-
+## Notable Projects
+ARL Scalable, Adaptive, and Resilient Autonomy CRA (Role: PI) \
+DARPA Subterranean Challenge (Role: MAV Lead) \
+DARPA Fast Lightweight Autonomy Program (Role: Planning and Control Lead)
 
